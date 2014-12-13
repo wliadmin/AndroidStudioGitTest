@@ -18,6 +18,7 @@ public class MainActivity extends ActionBarActivity {
         // Update commits later
 
         // This is a test feature
+        // 2nd feature
     }
 
 

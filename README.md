@@ -1,0 +1,4 @@
+AndroidStudioGitTest
+====================
+
+created new repo
